@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sixteen_dp">16dp</dimen>
+    <dimen name="eight_dp">8dp</dimen>
+    <dimen name="next_previous">50dp</dimen>
+    <dimen name="play_pause">60dp</dimen>
+    <dimen name="progress_width">250dp</dimen>
+    <dimen name="back_width">30dp</dimen>
+    <dimen name="back_height">40dp</dimen>
+    <dimen name="dp32">32dp</dimen>
+    <dimen name="four_dp">4dp</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">xPlayer</string>
+    <string name="todo">TODO</string>
+    <string name="xPlayer">xPlayer</string>
+    <string name="no_songs">All Songs</string>
+    <string name="nowPlaying">Now Playing</string>
+    <string name="title"></string>
+    <string name="track_name">Track</string>
+    <string name="artist_name">Name</string>
+    <string name="duration">0:00</string>
+</resources>
